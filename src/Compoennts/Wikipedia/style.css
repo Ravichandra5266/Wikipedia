@@ -1,0 +1,10 @@
+.bg-primary-subtle {
+  min-height: 100vh;
+}
+.logo {
+  width: 200px;
+}
+ul {
+  list-style-type: none;
+  padding: 0%;
+}
